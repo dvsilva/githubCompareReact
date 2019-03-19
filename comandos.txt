@@ -1,0 +1,7 @@
+// create app
+yarn global add create-react-app
+create-react-app app02
+
+// dev configuration
+yarn add eslint -D
+node_modules/.bin/eslint --init
