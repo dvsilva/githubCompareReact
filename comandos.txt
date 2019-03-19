@@ -5,3 +5,7 @@ create-react-app app02
 // dev configuration
 yarn add eslint -D
 node_modules/.bin/eslint --init
+
+// styled-components
+yarn add styled-components
+install styled-components extension
