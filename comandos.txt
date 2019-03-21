@@ -9,3 +9,18 @@ node_modules/.bin/eslint --init
 // styled-components
 yarn add styled-components
 install styled-components extension
+
+// adding axios api rest
+yarn add axios
+
+// add prop-types package
+yarn add prop-types
+
+// add moment
+yarn add moment
+
+// adding font-awesome [loading]
+yarn add font-awesome
+
+// run
+yarn start
